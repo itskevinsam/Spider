@@ -1,0 +1,15 @@
+{
+  "name": "spider",
+  "version": "1.0.0",
+  "description": "Simple Crawler Functionality.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kevin Sam <itskevinsam@yahoo.co.in>",
+  "license": "ISC",
+  "dependencies": {
+    "htmlparser": "^1.7.7",
+    "htmlparser2": "^3.9.2"
+  }
+}
